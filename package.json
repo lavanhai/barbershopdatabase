@@ -1,0 +1,14 @@
+{
+  "name": "barbershopdatabase",
+  "version": "1.0.0",
+  "description": "\"fake json rest API\"",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch database.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
